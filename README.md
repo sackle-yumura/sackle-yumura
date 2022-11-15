@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sackle-yumura)](https://github.com/sackle-yumura)
 [![Yumura's GitHub stats](https://github-readme-stats.vercel.app/api?username=sackle-yumura&show_icons=true)](https://github.com/sackle-yumura)
 [![trophy](https://github-profile-trophy.vercel.app/?username=sackle-yumura)](https://github.com/sackle-yumura/github-profile-trophy)
 
